@@ -1,4 +1,6 @@
 
+[![Build Status](https://azure-practice.visualstudio.com/devops-training/_apis/build/status/seanbarlow.mslearn-tailspin-spacegame-web?branchName=master)](https://azure-practice.visualstudio.com/devops-training/_build/latest?definitionId=5&branchName=master)
+
 # Contributing
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
